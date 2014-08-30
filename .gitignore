@@ -19,3 +19,7 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+/.idea/
+/app/Config/private.php
+
